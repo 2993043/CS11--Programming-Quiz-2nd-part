@@ -1,4 +1,6 @@
-
+#This is a calculator
+#My name: Prithika Sathyan Poornima
+#Who I collaborated with: Arianna Peguero, Jennifer Li
 print("Welcome to the totally complicated calculator!")
 solve = input("Do you want to solve an addition or subtraction problem?(add/subtract)")
 if solve == "add" :
